@@ -1,5 +1,5 @@
 FROM ubuntu:xenial
-MAINTAINER conta.MOBI
+MAINTAINER diegoemerick
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Install basic
